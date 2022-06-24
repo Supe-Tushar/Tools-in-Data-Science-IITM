@@ -1,0 +1,154 @@
+Week 2 :
+imdb dataset link
+https://datasets.imdbws.com/
+
+IMDb
+https://www.imdb.com/interfaces/
+
+The Movies Dataset | Kaggle
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+Explore the Internet Movie Database: https://gramener.com/imdb/
+
+What does the world search for?: https://gramener.com/search/ 
+
+https://www.timeanddate.com/weather/india/chennai/ext
+
+BBC_Location ID_Weather_Scraping.ipynb - Google Drive
+https://drive.google.com/file/d/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At/view
+
+BBC_Location ID_Weather_Scraping.ipynb - Colaboratory
+https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At
+
+BBC_Location ID_Weather_Scraping.ipynb - Google Drive
+https://drive.google.com/file/d/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At/view
+
+BBC_Location ID_Weather_Scraping.ipynb - Colaboratory
+https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At
+
+Palo Alto - BBC Weather
+https://www.bbc.com/weather/5380748
+
+https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuEwJh2W2cmv&stack=aws&locale=en&filter=international&place-types=settlement%2Cairport%2Cdistrict&order=importance&s=los angeles&a=true&format=json
+https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuEwJh2W2cmv&stack=aws&locale=en&filter=international&place-types=settlement%2Cairport%2Cdistrict&order=importance&s=los%20angeles&a=true&format=json
+
+
+json — JavaScript Object Notation — PyMOTW 3
+https://pymotw.com/3/json/index.html
+
+json — JSON encoder and decoder — Python 3.10.5 documentation
+https://docs.python.org/3/library/json.html
+
+JSON in Python || Python Tutorial || Learn Python Programming - YouTube
+https://www.youtube.com/watch?v=pTT7HMqDnJw
+
+urllib.parse — Split URLs into Components — PyMOTW 3
+https://pymotw.com/3/urllib.parse/index.html
+
+urllib.parse — Parse URLs into components — Python 3.10.5 documentation
+https://docs.python.org/3/library/urllib.parse.html
+
+Urllib - GET Requests || Python Tutorial || Learn Python Programming - YouTube
+https://www.youtube.com/watch?v=LosIGgon_KM
+
+Python Tutorial: OS Module - Use Underlying Operating System Functionality - YouTube
+https://www.youtube.com/watch?v=tJxcKyFMTGo
+
+os — Miscellaneous operating system interfaces — Python 3.10.5 documentation
+https://docs.python.org/3/library/os.html
+
+os — Portable access to operating system specific features — PyMOTW 3
+https://pymotw.com/3/os/index.html
+
+re — Regular Expressions — PyMOTW 3
+https://pymotw.com/3/re/index.html
+
+re — Regular expression operations — Python 3.10.5 documentation
+https://docs.python.org/3/library/re.html
+
+Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) - YouTube
+https://www.youtube.com/watch?v=K8L6KVGG-7o
+
+Datetime Module (Dates and Times) || Python Tutorial || Learn Python Programming - YouTube
+https://www.youtube.com/watch?v=RjMbCUpvIgw
+
+datetime — Basic date and time types — Python 3.10.5 documentation
+https://docs.python.org/3/library/datetime.html
+
+datetime — Date and Time Value Manipulation — PyMOTW 3
+https://pymotw.com/3/datetime/index.html
+
+Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation
+https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start
+
+Web Scraping with Python - Beautiful Soup Crash Course - YouTube
+https://www.youtube.com/watch?v=XVv6mJpFOb0&t=2137s
+
+Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) - YouTube
+https://www.youtube.com/watch?v=vmEHCJofslg
+
+Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More - YouTube
+https://www.youtube.com/watch?v=tb8gHvYlCFs&t=19s
+
+docs.python-requests.org
+https://docs.python-requests.org/en/latest/user/quickstart/
+
+10 minutes to pandas — pandas 1.4.2 documentation
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+
+Overview - Nominatim Documentation
+https://nominatim.org/release-docs/develop/api/Overview/
+
+Welcome to GeoPy’s documentation! — GeoPy 2.2.0 documentation
+https://geopy.readthedocs.io/en/latest/#geocoders
+
+https://tabula-py.readthedocs.io/en/latest/tabula.html
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+Week 3:
+
+Assembly Elections Cartogram
+https://gramener.com/election/cartogram?ST_NAME=Tamil%20Nadu
+
+Parliament Elections
+https://gramener.com/election/parliament#story.ddp
+
+OpenRefine
+https://openrefine.org/
+
+pdftotext(1)
+http://www.xpdfreader.com/pdftotext-man.html
+
+india-election-data/assembly.csv at master · datameet/india-election-data · GitHub
+https://github.com/datameet/india-election-data/blob/master/assembly-elections/assembly.csv
+
+election.ipynb - Colaboratory
+https://colab.research.google.com/drive/1SP8yVxzmofQO48-yXF3rujqWk2iM0KSl
+
+IITM-TDS-Prepare-the-Data.pptx - Google Slides
+https://docs.google.com/presentation/d/1Gb0QnPUN1YOwM_O5EqDdXUdL-5Azp1Tf/edit#slide=id.p1
+
+pandas_profile.ipynb - Colaboratory
+https://colab.research.google.com/drive/1xgbs_xJe8hQVV6ot9Qsk5gnQLKsiwudW?usp=sharing
+
+GitHub - ydataai/pandas-profiling: Create HTML profiling reports from pandas DataFrame objects
+https://github.com/ydataai/pandas-profiling
+
+Pandas Profiling for Data Science (Quick and Easy Exploratory Data Analysis) - YouTube
+https://www.youtube.com/watch?v=Ef169VELt5o
+
+report.html - Google Drive
+https://drive.google.com/file/d/1sn_bMNgprwzltEVeMImFMpD2QThATLZ8/view
+
